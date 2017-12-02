@@ -1,0 +1,184 @@
+{
+  "rows" : [
+    {
+      "eleccion" : "ALCALDE",
+      "comuna" : "SANTIAGO",
+      "nombre_del_candidato" : "FELIPE ALESSANDRI VERGARA",
+      "filiacion" : "Afiliado",
+      "nombre_partido" : "RENOVACION NACIONAL",
+      "nombre_proveedor" : "SABA IMPORTADORA LTD A",
+      "monto" : "119417"
+    },
+    {
+      "eleccion" : "ALCALDE",
+      "comuna" : "SANTIAGO",
+      "nombre_del_candidato" : "FELIPE ALESSANDRI VERGARA",
+      "filiacion" : "Afiliado",
+      "nombre_partido" : "RENOVACION NACIONAL",
+      "nombre_proveedor" : "AFICAS SPA  IMPRIFORMA SOLUC. GR",
+      "monto" : "351050"
+    },
+    {
+      "eleccion" : "ALCALDE",
+      "comuna" : "SANTIAGO",
+      "nombre_del_candidato" : "FELIPE ALESSANDRI VERGARA",
+      "filiacion" : "Afiliado",
+      "nombre_partido" : "RENOVACION NACIONAL",
+      "nombre_proveedor" : "C. LTDA.  VIA CENTRAL COMUNICA",
+      "monto" : "1500000"
+    },
+    {
+      "eleccion" : "ALCALDE",
+      "comuna" : "SANTIAGO",
+      "nombre_del_candidato" : "FELIPE ALESSANDRI VERGARA",
+      "filiacion" : "Afiliado",
+      "nombre_partido" : "RENOVACION NACIONAL",
+      "nombre_proveedor" : "INSTAGIS SPA",
+      "monto" : "2142000"
+    },
+    {
+      "eleccion" : "ALCALDE",
+      "comuna" : "SANTIAGO",
+      "nombre_del_candidato" : "FELIPE ALESSANDRI VERGARA",
+      "filiacion" : "Afiliado",
+      "nombre_partido" : "RENOVACION NACIONAL",
+      "nombre_proveedor" : "PARTNERS IMPRESIONES LIMITADA",
+      "monto" : "2891700"
+    },
+    {
+      "eleccion" : "ALCALDE",
+      "comuna" : "SANTIAGO",
+      "nombre_del_candidato" : "FELIPE ALESSANDRI VERGARA",
+      "filiacion" : "Afiliado",
+      "nombre_partido" : "RENOVACION NACIONAL",
+      "nombre_proveedor" : "AGENCIA PAN S.A",
+      "monto" : "1.0E7"
+    },
+    {
+      "eleccion" : "ALCALDE",
+      "comuna" : "SANTIAGO",
+      "nombre_del_candidato" : "FELIPE ALESSANDRI VERGARA",
+      "filiacion" : "Afiliado",
+      "nombre_partido" : "RENOVACION NACIONAL",
+      "nombre_proveedor" : "BORGONO  MARIA FDA. MAQUIEIRA",
+      "monto" : "500000.0"
+    },
+    {
+      "eleccion" : "ALCALDE",
+      "comuna" : "SANTIAGO",
+      "nombre_del_candidato" : "FELIPE ALESSANDRI VERGARA",
+      "filiacion" : "Afiliado",
+      "nombre_partido" : "RENOVACION NACIONAL",
+      "nombre_proveedor" : "AUTORRENTAS",
+      "monto" : "551054"
+    },
+    {
+      "eleccion" : "ALCALDE",
+      "comuna" : "SANTIAGO",
+      "nombre_del_candidato" : "FELIPE ALESSANDRI VERGARA",
+      "filiacion" : "Afiliado",
+      "nombre_partido" : "RENOVACION NACIONAL",
+      "nombre_proveedor" : "ARRIDO  CAROLINA A.NARVAEZ G",
+      "monto" : "180645"
+    },
+    {
+      "eleccion" : "ALCALDE",
+      "comuna" : "SANTIAGO",
+      "nombre_del_candidato" : "FELIPE ALESSANDRI VERGARA",
+      "filiacion" : "Afiliado",
+      "nombre_partido" : "RENOVACION NACIONAL",
+      "nombre_proveedor" : "REA  LEONARDO G.ABURTO UR",
+      "monto" : "135484"
+    },
+    {
+      "eleccion" : "ALCALDE",
+      "comuna" : "SANTIAGO",
+      "nombre_del_candidato" : "FELIPE ALESSANDRI VERGARA",
+      "filiacion" : "Afiliado",
+      "nombre_partido" : "RENOVACION NACIONAL",
+      "nombre_proveedor" : "AN S.A.  INMOB.E INV.EL ARRAY",
+      "monto" : "405000"
+    },
+    {
+      "eleccion" : "ALCALDE",
+      "comuna" : "SANTIAGO",
+      "nombre_del_candidato" : "FELIPE ALESSANDRI VERGARA",
+      "filiacion" : "Afiliado",
+      "nombre_partido" : "RENOVACION NACIONAL",
+      "nombre_proveedor" : "MAZABAL  JORGE A.MARTINEZ HOR",
+      "monto" : "700000.0"
+    },
+    {
+      "eleccion" : "ALCALDE",
+      "comuna" : "SANTIAGO",
+      "nombre_del_candidato" : "FELIPE ALESSANDRI VERGARA",
+      "filiacion" : "Afiliado",
+      "nombre_partido" : "RENOVACION NACIONAL",
+      "nombre_proveedor" : "C. LTDA.  VIA CENTRAL COMUNICA",
+      "monto" : "1500000"
+    },
+    {
+      "eleccion" : "ALCALDE",
+      "comuna" : "SANTIAGO",
+      "nombre_del_candidato" : "FELIPE ALESSANDRI VERGARA",
+      "filiacion" : "Afiliado",
+      "nombre_partido" : "RENOVACION NACIONAL",
+      "nombre_proveedor" : "BORGONO  MARIA FDA. MAQUIEIRA",
+      "monto" : "1000000.0"
+    },
+    {
+      "eleccion" : "ALCALDE",
+      "comuna" : "SANTIAGO",
+      "nombre_del_candidato" : "FELIPE ALESSANDRI VERGARA",
+      "filiacion" : "Afiliado",
+      "nombre_partido" : "RENOVACION NACIONAL",
+      "nombre_proveedor" : "PARTNERS IMPRESIONES LIMITADA",
+      "monto" : "5291700"
+    },
+    {
+      "eleccion" : "ALCALDE",
+      "comuna" : "SANTIAGO",
+      "nombre_del_candidato" : "FELIPE ALESSANDRI VERGARA",
+      "filiacion" : "Afiliado",
+      "nombre_partido" : "RENOVACION NACIONAL",
+      "nombre_proveedor" : "PARTNERS IMPRESIONES LIMITADA",
+      "monto" : "2145800"
+    },
+    {
+      "eleccion" : "ALCALDE",
+      "comuna" : "SANTIAGO",
+      "nombre_del_candidato" : "FELIPE ALESSANDRI VERGARA",
+      "filiacion" : "Afiliado",
+      "nombre_partido" : "RENOVACION NACIONAL",
+      "nombre_proveedor" : "PEREZ  RAFAEL A.VALENZUELA",
+      "monto" : "600000.0"
+    },
+    {
+      "eleccion" : "ALCALDE",
+      "comuna" : "SANTIAGO",
+      "nombre_del_candidato" : "FELIPE ALESSANDRI VERGARA",
+      "filiacion" : "Afiliado",
+      "nombre_partido" : "RENOVACION NACIONAL",
+      "nombre_proveedor" : "REA  LEONARDO G.ABURTO UR",
+      "monto" : "350000"
+    },
+    {
+      "eleccion" : "ALCALDE",
+      "comuna" : "SANTIAGO",
+      "nombre_del_candidato" : "FELIPE ALESSANDRI VERGARA",
+      "filiacion" : "Afiliado",
+      "nombre_partido" : "RENOVACION NACIONAL",
+      "nombre_proveedor" : "ARRIDO  CAROLINA A.NARVAEZ G",
+      "monto" : "350000"
+    },
+    {
+      "eleccion" : "ALCALDE",
+      "comuna" : "SANTIAGO",
+      "nombre_del_candidato" : "FELIPE ALESSANDRI VERGARA",
+      "filiacion" : "Afiliado",
+      "nombre_partido" : "RENOVACION NACIONAL",
+      "nombre_proveedor" : "OS BRAVO  MARCELA ALEJANDRA MU",
+      "monto" : "126333"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+<!doctype html>
+<meta charset="utf-8">
+
+<style media="screen">
+#text {
+  width: 25%;
+  float: left;
+  margin-left: 3%;
+}
+
+#viz {
+  width: 65%;
+  float: right;
+  margin: 0 auto;
+}
+</style>
+
+<script src="https://d3plus.org/js/d3.js"></script>
+<script src="https://d3plus.org/js/d3plus.js"></script>
+
+<div id="text">
+
+  <div>
+    <h1> Gastos de Candidatura </h1>
+  </div>
+
+  <div>
+    <table>
+      <tr>
+        <td> <img src="./photo.jpg"> </td>
+      </tr>
+      <tr>
+        <td>
+            <span style="font-size: 20px;">
+              Felipe Alessandri Vergara - Renovación Nacional
+            </span>
+        </td>
+        <td>
+          <br> <br>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <span style="font-size: 24px;">
+            ALCALDE
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <td> <br> <br> <br> <br> <br>  </td>
+      </tr>
+      <tr>
+        <td> <span style="font-size: 20px;"> Total de aportes: </span> </td>
+      </tr>
+      <tr>
+        <td> <span id="total" style="font-size: 36px;"> </span> </td>
+      </tr>
+    </table>
+  </div>
+
+  <div style="padding-top:200px;">
+    <img width=100px src="./dcf2.png">
+    <br>
+    Taller Visualización - Data Campfire - Diciembre 2017
+  </div>
+
+</div>
+
+<div id="viz"></div>
+
+<script>
+
+var aportes = {};
+var total_aportes = 0;
+
+d3.json("candidato.json", function(error, ourdata) {
+  if (error) return console.error(error);
+  var rows = ourdata['rows'];
+
+  for (var item of rows){
+    proveedor = item['nombre_proveedor']
+    if (proveedor in aportes){
+        aportes[proveedor] += parseFloat(item['monto'])
+        total_aportes += parseFloat(item['monto'])
+    } else {
+        aportes[proveedor] = parseFloat(item['monto'])
+        total_aportes += parseFloat(item['monto'])
+    }
+  }
+
+  var data = [];
+
+  for (var key in aportes){
+    aux = {};
+    aux["proveedor"] = key;
+    aux["monto"] = aportes[key];
+    data.push(aux);
+  }
+
+  console.log(data);
+
+  document.getElementById("total").innerHTML = total_aportes;
+
+  make_viz(data);
+});
+
+function make_viz(data){
+  var visualization = d3plus.viz()
+      .container("#viz")
+      .data(data)
+      .type("tree_map")
+      .id("proveedor")
+      .size("monto")
+      .draw()
+}
+
+</script>
